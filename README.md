@@ -77,6 +77,6 @@ Cada script gera:
 
 ## Autor
 
-**Marcos Venicius Malveira de Lima** -- [enf.econ@gmail.com](mailto:enf.econ@gmail.com)
+**Marcos Venicius Malveira de Lima** -- [enf.econ@gmail.com](mailto:mvmlima@hotmail.com)
 
-Orientação: Programa de Ciências da Saúde -- Centro Universitário do ABC (FMABC)
+Orientação: **Prof. Dr. Gabriel Zorello Laporta** Programa de Ciências da Saúde -- Centro Universitário do ABC (FMABC)
