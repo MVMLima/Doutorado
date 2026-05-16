@@ -8,7 +8,7 @@ O estudo aplica modelos de previsão de séries temporais à incidência mensal 
 
 | Doença | Estados | Período |
 |---|---|---|
-| **Dengue** | Acre, Santa Catarina, Tocantins, Maranhão, Paraíba, Amapá | 2000--2018 |
+| **Dengue** | Acre, Alagoas, Amazonas, Amapá, Bahia, Ceara, Distrito Federal, Espirito Santo, Goiais, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraíba, Pernambuco, Piaui, Paraná, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Rio Grande do Sul, Santa Catarina, Sergipe, São Paulo, Tocantins  | 2000--2018 |
 | **Leishmaniose** | Mato Grosso do Sul | 2001--2018 |
 | **Malária** | Tocantins e outro estado | 1997--2016 |
 
