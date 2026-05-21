@@ -9,8 +9,8 @@ O estudo aplica modelos de previsão de séries temporais à incidência mensal 
 | Doença | Estados | Período |
 |---|---|---|
 | **Dengue** | Acre, Alagoas, Amazonas, Amapá, Bahia, Ceara, Distrito Federal, Espirito Santo, Goiais, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraíba, Pernambuco, Piaui, Paraná, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima, Rio Grande do Sul, Santa Catarina, Sergipe, São Paulo, Tocantins  | 2000--2018 |
-| **Leishmaniose** | Mato Grosso do Sul | 2001--2018 |
-| **Malária** | Tocantins e outro estado | 1997--2016 |
+| **Leishmaniose** | Bahia, Ceará, Maranhão, Minas Gerais, Mato Grosso do Sul, Pará, Piauí, Rio Grande do Norte e Tocantins | 2001--2018 |
+| **Malária** | Estados da Amazônia Legal Brasileira 1997--2016 |
 
 ## Modelos Utilizados
 
